@@ -1,0 +1,4 @@
+This is a a small compiler built to take in a small modified subset of C which is then complied down into readable asm.
+
+Written in Haskell, 
+This is my first attempt at both a bigish Haskell project and compiler.
